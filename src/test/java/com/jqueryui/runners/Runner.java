@@ -1,0 +1,16 @@
+package com.jqueryui.runners;
+
+import io.cucumber.junit.CucumberOptions;
+import net.serenitybdd.cucumber.CucumberWithSerenity;
+import org.junit.runner.RunWith;
+
+@RunWith(CucumberWithSerenity.class)
+@CucumberOptions(
+        features = "src/test/resources/features/",
+        tags = "@Test",
+        glue = "com.jqueryui.Stepdefinitions",
+        snippets = CucumberOptions.SnippetType.CAMELCASE
+
+)
+public class Runner {
+}

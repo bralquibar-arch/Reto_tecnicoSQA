@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><testsuite errors="0" failures="0" name="Seleccion de fecha en un campo de formulario" skipped="0" tests="1" time="38.71" timestamp="2025-11-07 06:05:00"><testcase name="Impedir seleccion de fechas fuera del rango permitido"/></testsuite>

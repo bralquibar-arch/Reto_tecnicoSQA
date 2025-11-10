@@ -1,0 +1,6 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Seleccion de fecha en un campo de formulario","Impedir seleccion de fechas fuera del rango permitido","ERROR","2025-11-07T16:38:55.3737353-05:00[America/Bogota]","0.0","1.02"
+"Seleccion de fecha en un campo de formulario","Mostrar calendario emergente al hacer clic en el campo de fecha","SUCCESS","2025-11-10T08:15:48.0231912-05:00[America/Bogota]","0.0","41.33"
+"Seleccion de fecha en un campo de formulario","Seleccionar una fecha dentro del rango permitido","SUCCESS","2025-11-10T08:16:30.8453802-05:00[America/Bogota]","0.0","9.9"
+"Seleccion de fecha en un campo de formulario","Navegar entre meses y años en el calendario","SUCCESS","2025-11-10T08:16:41.2526323-05:00[America/Bogota]","0.0","10.57"
+"Seleccion de fecha en un campo de formulario","Impedir seleccion de fechas fuera del rango permitido","SUCCESS","2025-11-10T08:16:53.7409703-05:00[America/Bogota]","0.0","11.75"

@@ -1,0 +1,3 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Seleccion de fecha en un campo de formulario","Seleccionar una fecha dentro del rango permitido","SUCCESS","2025-11-10T08:16:30.8453802-05:00[America/Bogota]","0.0","9.9"
+"Seleccion de fecha en un campo de formulario","Navegar entre meses y años en el calendario","SUCCESS","2025-11-10T08:16:41.2526323-05:00[America/Bogota]","0.0","10.57"
